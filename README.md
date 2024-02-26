@@ -1,4 +1,4 @@
-# Sants Workshop Tour: Kaggle Challenge
+# Santas Workshop Tour: Kaggle Challenge
 
 Santa has exciting news! For 100 days before Christmas, he opened up tours to his workshop. Because demand was so strong, and because Santa wanted to make things as fair as possible, he let each of the 5,000 families that will visit the workshop choose a list of dates they'd like to attend the workshop.
 
